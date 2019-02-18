@@ -8,8 +8,8 @@
 - Blood Run
 - Corrupted Keep
 - Ruins of Sarnath
-- Tempest Shrine
 - The Molten Falls
+- Vale of Pnath
 ### Tournament information:
 - Double elimination bracket
 - Winner-Bracket (until quarter finals; Top 8): BO1
