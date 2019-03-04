@@ -15,8 +15,8 @@
 - Winner-Bracket (bis zum Viertelfinale; Top 8): BO1
 - Winner-Bracket (ab dem Viertelfinale): BO3
 - Loser-Bracket (durchgehend): BO1
-- Small-Final: BO3
-- Grand-Final: BO5
+- Kleines Finale: BO3
+- Großes Finale: BO5
 ### Cup-Regeln:
 - Nur Teams und Spielern aus der EU ist die Teilnahme am Turnier erlaubt
 - Jedes Team darf einen Champion nur einmal auswählen
